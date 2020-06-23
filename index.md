@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
     <script src='src/phaser-arcade-physics.min.js'></script>
